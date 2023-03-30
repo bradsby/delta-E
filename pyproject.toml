@@ -1,0 +1,16 @@
+[project]
+name = "delta-E"
+version = "0.0.1"
+authors = [
+  { name="Brady Rau", email="blrau96@gmail.com" },
+]
+description = "A collection of delta E equations"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/bradsby/delta-E"
