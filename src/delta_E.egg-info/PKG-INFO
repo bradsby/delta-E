@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: delta-E
+Version: 0.0.1
+Summary: A collection of delta E equations
+Author-email: Brady Rau <blrau96@gmail.com>
+Project-URL: Homepage, https://github.com/bradsby/delta-E
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Delta E
+
+This is a collection of the Delta E 76, 94, and 2000 equations in Python. You can find the equations at
+[Delta E 101](http://zschuessler.github.io/DeltaE/learn/).
